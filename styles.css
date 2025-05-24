@@ -9,13 +9,13 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 20px;
-    color: #333;
+    color: yellow;
     max-width: 800px;
     margin: 0 auto;
 }
 
 h1 {
-    color: #2c3e50;
+    color: yellow;
     border-bottom: 2px solid #eee;
     padding-bottom: 10px;
 }
